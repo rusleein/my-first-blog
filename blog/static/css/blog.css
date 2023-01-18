@@ -48,6 +48,11 @@ h1, h2, h3, h4 {
     margin-right: 20px;
 }
 
+.admin-btm{
+    color: white;
+    margin-left: 500px;
+}
+
 .post {
     margin-bottom: 70px;
 }
